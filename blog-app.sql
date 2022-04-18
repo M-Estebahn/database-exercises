@@ -69,3 +69,4 @@ SHOW tables;
 
 # Dropping Tables
 # DROP TABLE users;OIN posts_label pl ON
+DESC  labels
